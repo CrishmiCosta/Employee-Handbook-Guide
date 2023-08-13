@@ -19,6 +19,7 @@ The development of the AI application involves the key steps below:
 * Creating Prompt template and Chain using Langchain
 * Calling the Open AI API call to get the response using ChatGPT
 * Interface Design using Streamlit framework to allow users to input their questions and receive responses.
+
 GitHub Repository Link to code - https://github.com/CrishmiCosta/Employee-Handbook-Guide/blob/main/pages/HandBook%20Q%26A%20Bot.py  
 ## RESULTS
  ![image](https://github.com/CrishmiCosta/Employee-Handbook-Guide/assets/92675583/4e385b64-7cfc-495a-b7a1-ef8bdeaf3918)
